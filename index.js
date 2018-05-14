@@ -6,3 +6,6 @@ function destructivelyAppendKitten(name){
 function appendKitten(name){
   return [...kittens, name]
 }
+function removeFirstKitten(){
+  return kittens.push()
+}
